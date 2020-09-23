@@ -1,6 +1,6 @@
 # Docker IPT
 
-**The Docker scripts are now managed as part of the main IPT project; https://github.org/gbif/ipt**
+**The Docker scripts are now managed as part of the main IPT project; https://github.com/gbif/ipt**
 
 ----
 
